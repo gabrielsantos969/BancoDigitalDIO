@@ -8,7 +8,7 @@ public class ContaTerminal {
     public static void main(String[] args)throws InterruptedException{
 
         Scanner scanner = new Scanner(System.in);
-        double saldo = 0.00;
+        double saldo = 0;
 
 
         System.out.print("Seja bem-vindo(a) ao banco digital DIO!!");
@@ -22,7 +22,7 @@ public class ContaTerminal {
         String nomeCliente = scanner.nextLine();
         System.out.print("Qual valor deseja depositar? R$ ");
         double saldoParaDepositar = scanner.nextDouble();
-        saldo =+ saldoParaDepositar;
+        saldo += saldoParaDepositar;
         showLoadingAnimation(nomeCliente, numero, agencia, saldo);
     }
 
