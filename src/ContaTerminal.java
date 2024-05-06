@@ -3,6 +3,11 @@ import java.text.DecimalFormatSymbols;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * @author Gabriel Santos
+ * @since 04/05/2024
+ * @version 1.0.0
+ */
 public class ContaTerminal {
 
     public static void main(String[] args)throws InterruptedException{
@@ -12,20 +17,35 @@ public class ContaTerminal {
 
 
         System.out.print("Seja bem-vindo(a) ao banco digital DIO!!");
+
         System.out.print("\nMe informe o número da sua conta: ");
         Integer numero = scanner.nextInt();
         scanner.nextLine();
+
         System.out.print("Me informe agora a sua agencia: ");
         String agencia = scanner.next();
         scanner.nextLine();
+
         System.out.print("Me informe agora os seu nome: ");
         String nomeCliente = scanner.nextLine();
+
         System.out.print("Qual valor deseja depositar? R$ ");
         double saldoParaDepositar = scanner.nextDouble();
+
         saldo += saldoParaDepositar;
+
         showLoadingAnimation(nomeCliente, numero, agencia, saldo);
     }
 
+    /**
+     * Metodo para fingir carregamento e mostrar a frase de criação de conta.
+     *
+     * @param nomeCliente
+     * @param numeroConta
+     * @param agencia
+     * @param saldo
+     * @throws InterruptedException
+     */
     public static void showLoadingAnimation(String nomeCliente, Integer numeroConta, String agencia, double saldo) throws InterruptedException {
         DecimalFormatSymbols symbols = new DecimalFormatSymbols(new Locale("pt", "BR"));
         symbols.setGroupingSeparator('.');
