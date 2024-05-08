@@ -1,6 +1,6 @@
 ## Implementações para o projeto
 
-* [X] Tela de com opções (Entrar, Cadastrar)
+* [X] Menu com opções no terminal (Entrar, Cadastrar, Sair) 
 * [ ] Cadastrar Pessoa Salvando em arquivo
 * [ ] Entrar fazendo a busca dentro do arquivo
 * [ ] Método para Saque
