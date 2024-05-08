@@ -34,6 +34,10 @@ Essas são implementações que quero colocar inicialmente no projeto, a qual vo
 
 ## Notas de versão
 
+### **1.0.0**:
+> - Projeto com o cadastro de cliente simplificado.
+
+
 ### **1.1.0**:
 > - Adicionado class MenuInicial
 > - Cadastro de cliente da versão _1.0.0_ enviado para dentro da class MenuInicial

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c34fd86-9db3-40a1-8243-b014398a5c8e" name="Changes" comment="🎉Commit Initial">
-      <change afterPath="$PROJECT_DIR$/src/MenuInicial.java" afterDir="false" />
+    <list default="true" id="3c34fd86-9db3-40a1-8243-b014398a5c8e" name="Changes" comment="Ajustado o README.md com a atualização do 1.1.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaTerminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,11 +103,29 @@
       <option name="project" value="LOCAL" />
       <updated>1714852416913</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implementado Nova Class MenuInicial e Ajustes na Class Principal">
+      <option name="closed" value="true" />
+      <created>1715174751177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715174751177</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ajustado o README.md com a atualização do 1.1.0">
+      <option name="closed" value="true" />
+      <created>1715174801511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715174801511</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Initial" />
+    <MESSAGE value="Implementado Nova Class MenuInicial e Ajustes na Class Principal" />
+    <MESSAGE value="Ajustado o README.md com a atualização do 1.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustado o README.md com a atualização do 1.1.0" />
   </component>
 </project>
