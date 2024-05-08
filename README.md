@@ -5,41 +5,37 @@
 
 ### Descrição do projeto
 
-Esse projeto funciona através de linha de comando onde a pessoa coloca dados da conta e no final ele da um boas vindas pela conta criada e do valor que foi desejado depositar na conta.
-
-Pude colocar em prática nesse projeto a criação de classes, métodos, criação de variáveis, operadores e outros recursos ensinados.
-
-### Expectativas para esse projeto
-
-A minha expectativa para esse projeto é que eu continue a desenvolver ele para algum ainda mais melhorado e que simule um verdadeiro banco digital, com métodos de login, deposito, saque e muito mais.
-
-Esse projeto deixado como aberto, vou deixar como forma de implementação para novos recursos a qual desejo fazer, onde você poderá colaborar para criar novos métodos e melhorar o código.
-
-### Agradecimentos
-
-Desde já agradeço a equipe da DIO e do Santander por ter me motivado a alcançar novos objetivos e aprender ainda mais com novas tecnologias, a qual vou colocar em pratica e começar a trabalhar na área com essas tecnologias aprendidas.
+> Esse projeto funciona através de linha de comando onde a pessoa coloca dados da conta e no final ele da um boas vindas pela conta criada e do valor que foi desejado depositar na conta.
+>
+> Pude colocar em prática nesse projeto a criação de classes, métodos, criação de variáveis, operadores e outros recursos ensinados.
 
 ---
 
-### Implementações para o projeto
+### Expectativas para esse projeto
 
-* [X] Tela de com opções (Entrar, Cadastrar)
-* [ ] Cadastrar Pessoa Salvando em arquivo
-* [ ] Entrar fazendo a busca dentro do arquivo
-* [ ] Método para Saque
-* [ ] Método para Deposito
-* [ ] Método para transferência de uma conta para outra
+> A minha expectativa para esse projeto é que eu continue a desenvolver ele para algum ainda mais melhorado e que simule um verdadeiro banco digital, com métodos de login, deposito, saque e muito mais.
+>
+> Esse projeto deixado como aberto, vou deixar como forma de implementação para novos recursos a qual desejo fazer, onde você poderá colaborar para criar novos métodos e melhorar o código.
 
-Essas são implementações que quero colocar inicialmente no projeto, a qual vou começar a atualiza-la, você poderá colocar no "java doc", que você é o author daquela função a qual você adicionou, espero que vocês gostem e apoiem essa iniciativa 😊
+---
 
-## Notas de versão
+### Demais Informações
 
-### **1.0.0**:
-> - Projeto com o cadastro de cliente simplificado.
-> - [Demonstração da Versão 1.0.0](https://drive.google.com/file/d/1p6kFwsWTDmtFIXkBAmxeerPapEh2VGDR/view?usp=sharing "Demonstração de como o sistema está sendo executado na versão (1.0.0).")
 
-### **1.1.0**:
-> - Adicionado class MenuInicial
-> - Cadastro de cliente da versão _1.0.0_ enviado para dentro da class MenuInicial
-> - Adicionado Opção de Sair
-> - [Demonstração da Versão 1.1.0](https://drive.google.com/file/d/1TBhGc5zXveLf9mNzZmUOKF1-1kgw6uxC/view?usp=sharing "Demonstração de como o sistema está sendo executado na versão (1.1.0).")
+> Notas de versão das atualização feitas no sistema:
+> [Notas De Versão](RELEASENOTES.md "Notas de versão das atualização feitas no sistema.")\
+> Implementação feitas ou para serem adicionadas no sistema: 
+> [Implementações](IMPLEMENTATIONS.md "Implementação feitas ou para serem adicionadas no sistema.")
+---
+### Agradecimentos
+
+> Desde já agradeço a equipe da DIO e do Santander por ter me motivado a alcançar novos objetivos e aprender ainda mais com novas tecnologias, a qual vou colocar em pratica e começar a trabalhar na área com essas tecnologias aprendidas.
+
+---
+
+# Autor
+[<img src="https://github.com/gabrielsantos969.png" width=115 > <br> <sub> Gabriel Santos </sub>](https://github.com/gabrielsantos969) |
+| :---: |  
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsantos969)](https://github.com/gabrielsantos969)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santos-b53632196/)](https://www.linkedin.com/in/gabriel-santos-b53632196/)
