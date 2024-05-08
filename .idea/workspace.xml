@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c34fd86-9db3-40a1-8243-b014398a5c8e" name="Changes" comment="Ajustado o README.md com a atualização do 1.1.0">
+    <list default="true" id="3c34fd86-9db3-40a1-8243-b014398a5c8e" name="Changes" comment="Adicionado exemplos em video das versões, mostrando sua evolução">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,13 +118,22 @@
       <option name="project" value="LOCAL" />
       <updated>1715174801511</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adicionado exemplos em video das versões, mostrando sua evolução">
+      <option name="closed" value="true" />
+      <created>1715180434573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715180434573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Initial" />
     <MESSAGE value="Implementado Nova Class MenuInicial e Ajustes na Class Principal" />
     <MESSAGE value="Ajustado o README.md com a atualização do 1.1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajustado o README.md com a atualização do 1.1.0" />
+    <MESSAGE value="Adicionado exemplos em video das versões, mostrando sua evolução" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado exemplos em video das versões, mostrando sua evolução" />
   </component>
 </project>
