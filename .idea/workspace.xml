@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c34fd86-9db3-40a1-8243-b014398a5c8e" name="Changes" comment="Ajustado tabela do README" />
+    <list default="true" id="3c34fd86-9db3-40a1-8243-b014398a5c8e" name="Changes" comment="Ajuste de erro ortografico">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuInicial/Cadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RELEASENOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/RELEASENOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaTerminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuInicial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuInicial/MenuInicial.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +62,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Programação/Java/ContaBanco/src/Main.java",
@@ -152,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715198840867</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ajuste de erro ortografico">
+      <option name="closed" value="true" />
+      <created>1715199754725</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715199754725</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,6 +179,7 @@
     <MESSAGE value="Adicionado tooltip nos links, para explicar o conteudo do link" />
     <MESSAGE value="Separação no README para melhor organização" />
     <MESSAGE value="Ajustado tabela do README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajustado tabela do README" />
+    <MESSAGE value="Ajuste de erro ortografico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste de erro ortografico" />
   </component>
 </project>
