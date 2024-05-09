@@ -64,7 +64,7 @@ public class MenuInicial {
                     cadastro = Cadastro.cadastroCliente(primeiroNome, sobrenome, email, senha, cpf);
 
                     showLoadingAnimation("Processando informações");
-                    System.out.print("Seja bem vindo: " + cadastro.nomeCompleto() + " Sua conta foi criada com sucesso." );
+                    System.out.print("\nSeja bem vindo: " + cadastro.nomeCompleto() + " Sua conta foi criada com sucesso." );
                     break;
                 case 3:
                     showLoadingAnimation("Saindo");
